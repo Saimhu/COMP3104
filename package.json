@@ -1,0 +1,22 @@
+{
+  "name": "comp3104",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "scripts": {
+      "test": "echo \"Warning: No tests created yet.\""
+    },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Saimhu/COMP3104.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Saimhu/COMP3104/issues"
+  },
+  "homepage": "https://github.com/Saimhu/COMP3104#readme"
+}
